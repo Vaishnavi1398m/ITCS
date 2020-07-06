@@ -1,1 +1,2 @@
 This folder contains the main pseudocode for the behavioural movement and human-animal classification.The model weights and dataset is not included. Modules need to be downloaded is also mentioned in the requirements.txt file 
+The main yolov3 model code is available https://github.com/AntonMu/TrainYourOwnYOLO which contains the modelweights 
