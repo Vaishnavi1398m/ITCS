@@ -8,8 +8,12 @@ The final age brackets are grouped into four: CHILD , YOUNG ,MIDDLE and OLD
 
 The final crossing time allotted are:
 Child   = 15 seconds 
-Young   = 10 seconds 
+
+Young   = 10 seconds
+
 Middle  = 12 seconds 
+
 Old     = 20 seconds 
+
 Animal  = 10 seconds 
 
